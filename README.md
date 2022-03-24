@@ -2,11 +2,11 @@
 
 An application build with [React](https://reactjs.org/) to save photos of every single burger being eaten i Malmö, Sweden. Using [Firebase](https://firebase.google.com/)
 
-## Installation and usage
+# Installation and usage
 
-# Installation
+## Installation
 
-# Usage
+## Usage
 
-## License
+# License
 [MIT](https://choosealicense.com/licenses/mit/)
