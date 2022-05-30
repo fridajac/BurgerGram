@@ -1,12 +1,20 @@
 # BurgerGram
 
-An application build with [React](https://reactjs.org/) to save photos of every single burger being eaten i Malmö, Sweden. Using [Firebase](https://firebase.google.com/)
+An application build with [React](https://reactjs.org/) to save photos of every single burger being eaten i Malmö, Sweden, by us. Using [Firebase](https://firebase.google.com/)
 
-# Installation and usage
+## Requirements
 
-## Installation
+- React
+- Firebase
+- Npm
 
-## Usage
+## Installation and usage
+
+In project repository, type command:
+
+```bash
+npm run
+```
 
 # License
 [MIT](https://choosealicense.com/licenses/mit/)
